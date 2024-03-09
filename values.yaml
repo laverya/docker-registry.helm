@@ -24,7 +24,7 @@ image:
 # imagePullSecrets:
     # - name: docker
 service:
-  name: "" 
+  name: ""
   type: ClusterIP
   # sessionAffinity: None
   # sessionAffinityConfig: {}
